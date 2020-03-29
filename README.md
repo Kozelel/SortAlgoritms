@@ -1,4 +1,7 @@
+#Sorting Algorithms Comparison
+#how to run
 If you want to run this program you need to start interpret from main.py file.
+#
 Firstly you need to choose from list algorithms you want to compare.
 I implemented :
 -Boubble Sort,
