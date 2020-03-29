@@ -14,8 +14,6 @@ Next you need to choose options for integers arrays that program inject into all
 ##### -array of random integers,
 ##### -array of sorted integers,
 ##### -array of reversely sorted integers
-### Next you need to push start button and wait for results, it could take a few minutes.
-### As an end result, program generete plots with statistics.
-### You can see how much time algorithms spend on sorting, count of arrays use to work, count of accesses to array, swaps, sets, pushes.
+Next you need to push start button and wait for results, it could take a few minutes. As an end result, program generete plots with statistics. You can see how much time algorithms spend on sorting, count of arrays use to work, count of accesses to array, swaps, sets, pushes.
 ## library
 GUI create by tkinter, plots generate on pandas.
