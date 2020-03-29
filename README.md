@@ -2,15 +2,15 @@
 ## how to run
 If you want to run this program you need to start interpret from main.py file.
 ## Description
-### Firstly you need to choose from list algorithms you want to compare.
-### I implemented :
-#### -Boubble Sort,
-#### -Selection Sort,
-#### -Insert Sort,
-#### -Heap Sort,
-#### -Merge Sort,
-#### -4 types of Quick Sort,
-### Next you need to choose options for integers arrays that program inject into all of selected algorithms.
+ Firstly you need to choose from list algorithms you want to compare.
+ I implemented :
+-Boubble Sort,
+-Selection Sort,
+-Insert Sort,
+-Heap Sort,
+-Merge Sort,
+-4 types of Quick Sort,
+Next you need to choose options for integers arrays that program inject into all of selected algorithms.
 ### You can specify minimum length of array, maximum length of array, step. You can also set maximum time for one single sort. If algorithm exceeds maximum time it will be last step for this algorithm.
 ### In last step you need to choose what type of arrays you want to inject to algorithms:
 #### -array of random integers,
